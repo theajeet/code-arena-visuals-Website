@@ -5,14 +5,11 @@ CodeArena is a powerful, visually immersive 3D coding stats dashboard that lets 
 Get real-time updates on your coding journey – GitHub commits, LeetCode problems solved, PRs, streaks, and more.
 
 🛠️ Tech Stack
-| Layer             | Technology Used                                         |
-| ----------------- | ------------------------------------------------------- |
-| **Frontend**      | React.js, TailwindCSS, Vite                             |
-| **Backend**       | Node.js, Express.js                                     |
-| **Database**      | MongoDB (for storing user metrics)                      |
-| **APIs**          | GitHub REST API, LeetCode API (unofficial), Custom APIs |
-| **Visualization** | Three.js or React-Three-Fiber (for 3D rendering)        |
-| **Deployment**    | Vercel / Netlify (frontend), Render / Heroku (backend)  |
+React js 
+Tailwindcss
+Framer Motion
+React Hooks
+
 
 ✨ Key Features
 📈 3D Developer Stats
